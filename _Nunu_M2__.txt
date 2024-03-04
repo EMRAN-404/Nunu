@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/99.0.0.35.63;FBBV/77887573;FBDM/{density=2.0,width=720,height=1280};FBLC/ko_KR;FBCR/T-Mobile;FBMF/Samsung;FBBD/Samsung;FBPN/com.facebook.katana;FBDV/SM-A235F;FBSV/4.4.2;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/128.0.0.26.68;FBBV/61451353;FBDM/{density=4.0,width=1440,height=2560};FBLC/ru_RU;FBRV/61451353;FB_FW/2;FBCR/MTS RUS;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G920F;FBSV/7.0;FBOP/19;FBCA/armeabi-v7a:armeabi;]
