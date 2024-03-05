@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/60.0.0.16.76;FBBV/20454004;FBDM/{density=2.0,width=720,height=1280};FBLC/en_US;FBCR/Vodafone IN;FBMF/PANASONIC;FBBD/Panasonic;FBPN/com.facebook.katana;FBDV/Panasonic P55;FBSV/4.4.2;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/Orca-Android;FBAV/453.0.0.98.85;FBBV/8336403;FBCR/Orange GN;FBMF/samsung;FBBD/samsung;FBDV/SM-A235F;FBSV/12;FBCA/arm64-v8a:null;FBDM/{density=2.8125,width=1080,height=2207};FB_FW/1;]
