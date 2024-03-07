@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/60.0.0.16.76;FBBV/20454004;FBDM/{density=2.0,width=720,height=1280};FBLC/en_US;FBCR/Vodafone IN;FBMF/PANASONIC;FBBD/Panasonic;FBPN/com.facebook.katana;FBDV/Panasonic P55;FBSV/4.4.2;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/79.0.0.18.71;FBBV/31009794;FBDM/{density=1.5,width=480,height=854};FBLC/es_LA;FBCR/TELCEL;FBMF/TCT;FBBD/TCT;FBPN/com.facebook.katana;FBDV/ALCATEL ONE TOUCH 7042A;FBSV/4.2.2;FBOP/19;FBCA/armeabi-v7a:armeabi;]
